@@ -1,0 +1,10 @@
+﻿<Project>
+    <ItemGroup>
+        <PackageVersion Include="Microsoft.CSharp" Version="4.7.0" />
+        <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="6.0.4" />
+        <PackageVersion Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.4" />
+        <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.4" />
+        <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+        <PackageVersion Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.4" />
+    </ItemGroup>
+</Project>
